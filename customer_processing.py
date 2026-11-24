@@ -6,4 +6,6 @@ customers=[
 ]
 for customers in cust:
   print(customer)
-print("customer data loaded successfully")
+print("customers printed")
+print("pipeline trigger test")
+
