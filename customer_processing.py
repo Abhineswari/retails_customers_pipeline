@@ -4,7 +4,7 @@ customers=[
   (103,"blake",35000),
   (104,"Priya",40000)
 ]
-for customers in cust:
+for customer in customers:
   print(customer)
 print("customers printed")
 print("pipeline trigger test")
