@@ -23,7 +23,7 @@ jobs:
       - name: Run customer processing script
         run: python customer_processing.py
       - name: success message
-        run: echo " customer processing executed"
+        run: echo " customer processing executed."
         
 
 
